@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Maruti Cement",
+  "ProjectGuid": "e1eeb384-7ec4-4ef9-a16f-311efa9e38b6",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MarutiCement",
+  "DisplayName": "Maruti Cement",
+  "Author": "",
+  "Description": "Maruti Cement",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{e40ce12f-bc16-407f-8459-0a13491c61be}",
+  "WP8ProductID": "{5a07b637-2b27-4fa3-8a66-c8c4e8616f8f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.MarutiCement",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
