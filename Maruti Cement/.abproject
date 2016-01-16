@@ -2,9 +2,9 @@
   "ProjectName": "Maruti Cement",
   "ProjectGuid": "e1eeb384-7ec4-4ef9-a16f-311efa9e38b6",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.MarutiCement",
+  "AppIdentifier": "com.Nyatapol.MarutiCement",
   "DisplayName": "Maruti Cement",
-  "Author": "",
+  "Author": "bebeckstha",
   "Description": "Maruti Cement",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
@@ -41,5 +41,6 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ]
+  ],
+  "iOSDeploymentTarget": "6.0"
 }
