@@ -6,7 +6,7 @@
   "DisplayName": "Maruti Cement",
   "Author": "bebeckstha",
   "Description": "Maruti Cement",
-  "BundleVersion": "1.0",
+  "BundleVersion": "1.0.1",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1"
